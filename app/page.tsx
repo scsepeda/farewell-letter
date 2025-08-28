@@ -140,10 +140,7 @@ export default function FarewellLetter() {
     if (isSpeaking && !isPaused) {
       return (
         <div className="flex gap-2">
-          <Button onClick={handleSpeak} variant="outline" className="gap-2 bg-white hover:bg-gray-50 border-gray-300">
-            <Pause className="h-4 w-4" />
-            {t("pause")}
-          </Button>
+         
           <Button onClick={handleStop} variant="outline" className="gap-2 bg-white hover:bg-gray-50 border-gray-300">
             <VolumeX className="h-4 w-4" />
             {t("stop")}
@@ -155,10 +152,7 @@ export default function FarewellLetter() {
     if (isPaused) {
       return (
         <div className="flex gap-2">
-          <Button onClick={handleSpeak} variant="outline" className="gap-2 bg-white hover:bg-gray-50 border-gray-300">
-            <Play className="h-4 w-4" />
-            {t("resume")}
-          </Button>
+          
           <Button onClick={handleStop} variant="outline" className="gap-2 bg-white hover:bg-gray-50 border-gray-300">
             <VolumeX className="h-4 w-4" />
             {t("stop")}
@@ -264,9 +258,7 @@ export default function FarewellLetter() {
               <div className="mt-6 p-6 bg-pink-50 border border-pink-200 rounded-xl animate-fade-in shadow-sm">
                 <div className="text-center space-y-3">
                   <div className="flex items-center justify-center gap-2">
-                    <Heart className="h-5 w-5 text-pink-500" />
                     <Sparkles className="h-5 w-5 text-yellow-500" />
-                    <Heart className="h-5 w-5 text-pink-500" />
                   </div>
                   <p className="text-base font-medium text-pink-700">{t("hiddenMessage")}</p>
                   <p className="text-sm text-pink-600 italic">{t("hiddenMessageTranslation")}</p>
