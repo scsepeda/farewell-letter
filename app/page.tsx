@@ -275,7 +275,7 @@ export default function FarewellLetter() {
           <p className="text-sm text-pink-600">
             📖 Check the{" "}
             <a
-              href="https://github.com/scsepeda/farewell-letter-page/blob/main/README.md"
+              href="https://github.com/scsepeda/farewell-letter/blob/main/README.md"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-pink-700 font-medium"
