@@ -193,46 +193,38 @@ export default function FarewellLetter() {
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-white">
       <div className="bg-white border-b border-gray-200 py-4">
         <div className="max-w-4xl mx-auto px-4 flex justify-center">
-          <img src="/images/cacib-logo.png" alt="Crédit Agricole Corporate & Investment Bank" className="h-10 w-auto" />
+          <img src="/images/cacib-logo.png" alt="Crédit Agricole Corporate & Investment Bank" className="h-16 w-auto" />
         </div>
       </div>
 
       <div className="max-w-4xl mx-auto p-6 space-y-8">
         <div className="text-center">
-          <div className="inline-flex items-center gap-3 bg-white rounded-full px-6 py-4 shadow-lg border border-gray-100">
+          <a
+            href="https://linkedin.com/in/samanthasepeda"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 bg-teal-600 hover:bg-teal-700 text-white rounded-full px-6 py-4 shadow-lg border border-teal-600 transition-colors duration-200"
+          >
             <img
               src="/images/samantha-profile.png"
               alt="Samantha Sepeda"
-              className="w-12 h-12 rounded-full object-cover border-2 border-gray-200"
+              className="w-12 h-12 rounded-full object-cover border-2 border-white"
             />
             <div className="text-left">
-              <div className="font-semibold text-gray-800">Samantha Sepeda</div>
-              <a href="https://linkedin.com/in/samanthasepeda" className="text-sm text-blue-600 hover:underline">
-                Connect on LinkedIn
-              </a>
+              <div className="font-semibold">Samantha Sepeda</div>
+              <div className="text-sm text-teal-100">Connect on LinkedIn</div>
             </div>
-          </div>
+          </a>
         </div>
 
         <div className="text-center space-y-4">
-          <div className="flex items-center justify-center gap-3">
-            <div className="w-10 h-10 bg-teal-600 rounded-full flex items-center justify-center shadow-lg">
-              <Heart className="h-5 w-5 text-white fill-white" />
-            </div>
-            <h1 className="text-4xl font-bold text-gray-800">Till We Meet Again</h1>
-            <div className="w-10 h-10 bg-teal-600 rounded-full flex items-center justify-center shadow-lg">
-              <Heart className="h-5 w-5 text-white fill-white" />
-            </div>
-          </div>
+          <h1 className="text-4xl font-bold text-gray-800">Till We Meet Again</h1>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">{t("subtitle")}</p>
         </div>
 
         <Card className="p-8 shadow-lg bg-white border-0">
           <div className="space-y-6">
-            <div className="flex items-center gap-3 justify-center">
-              <div className="w-6 h-6 bg-teal-600 rounded-full flex items-center justify-center">
-                <Languages className="h-4 w-4 text-white" />
-              </div>
+            <div className="text-center">
               <h2 className="text-xl font-semibold text-gray-700">{t("selectLanguage")}</h2>
             </div>
             <div className="grid grid-cols-7 gap-3">
@@ -260,17 +252,7 @@ export default function FarewellLetter() {
 
         <Card className="p-8 shadow-lg bg-white border-0">
           <div className="space-y-6">
-            <div className="flex items-center justify-between flex-wrap gap-4">
-              <div className="flex items-center gap-3">
-                <h2 className="text-2xl font-semibold text-gray-800">{t("yourLetter")}</h2>
-                {currentLanguage === "tl" && (
-                  <div className="w-5 h-5 bg-red-500 rounded-full flex items-center justify-center">
-                    <Heart className="h-3 w-3 text-white fill-white" />
-                  </div>
-                )}
-              </div>
-              {renderTTSButton()}
-            </div>
+            <div className="flex items-center justify-end">{renderTTSButton()}</div>
 
             <div className="bg-gray-50 p-8 rounded-xl border border-gray-100">
               <div className="prose prose-lg max-w-none">
