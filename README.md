@@ -29,7 +29,7 @@ This is an interactive farewell letter webpage that supports **7 languages** wit
 
 ## Special Shoutouts 
 
-_"P.S. Special shoutout to: Alex (Tay), Boss Val, Sowmya, Bhie, Rachel, Janina, Boss Karl, Valerie, HK, Charlalou, Faith, Trish, Azeem, CDH Team (Naveen, Nikhil, Vasantha, Yishen lol), CSI Shooting Stars (Dipin, Bob, Gio, Khai Ning, too many to mention guys, will miss u all), CCG Team (Nishadhi, WQ), CARE Team (Tine, Shruthi, Kelvin), CPI-GS Team (Boss Bry, Jeevitha), FCR/AppOps Team (Bru, Senthil, Sri, Mani and ppl I always bother for deployments XD), ISAP Bball Teams (idol Pancho, boss Jeff), Unicorn Team, APIM & TSDL Team (Kevin and Dilanka, you guys are the goats), IT-CPL Team (Joel, Benoit, Karim, Eric, Pierre), MU Team (Jospin, Toki etc), Anyone I might have missed but are close to my heart... Until our paths cross again :)"_
+_"P.S. Special shoutout to: Alex (Tay), Boss Val, Sowmya, Bhie, Rachel, Janina, Boss Karl, Valerie, Charlalou, Faith, Trish, Azeem, CDH people (HK, Naveen, Nikhil, Vasantha, Yishen, Nirmal, Venkat), CSI Shooting Stars (Dipin, Bob, Gio, Khai Ning, too many to mention guys, I will miss u all), CCG Team (Nishadhi, WQ), CARE Team (Tine, Shruthi, Kelvin), CPI-GS Team (Boss Bry, Jeevitha), FCR/AppOps Team (Bru, Senthil, Sri, Mani and ppl I always borrow for deployments), ISAP Bball Teams (idol Pancho, boss Jeff, etc), Unicorn Team (boss Pia idol), APIM & TSDL Team (Kevin and Dilanka, you guys are the goats), IT-CPL Team (Joel, Benoit, Karim, Eric, Pierre), MU Team (Jospin, Toki etc), Anyone I might have missed but are close to my heart... Until our paths cross again :)"_
 
 
 ## Deployment
