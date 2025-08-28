@@ -1,13 +1,13 @@
-# Farewell Letter Page 💚
+# Farewell Letter Page
 
-*A heartfelt multilingual farewell letter with text-to-speech capabilities*
+*A  multilingual farewell letter with text-to-speech capabilities*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/scsepedas-projects/v0-farewell-letter-page)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/1DN0J6icltX)
 
 ## What This Does
 
-This is a beautiful, interactive farewell letter webpage that supports **7 languages** with advanced text-to-speech functionality. Built with Credit Agricole's corporate branding, it provides a warm and professional way to say goodbye to colleagues and friends.
+This is an interactive farewell letter webpage that supports **7 languages** with advanced text-to-speech functionality. Built with Credit Agricole's corporate branding, it provides a warm and professional way to say goodbye to colleagues and friends.
 
 ### Features
 
@@ -29,7 +29,7 @@ This is a beautiful, interactive farewell letter webpage that supports **7 langu
 
 ## Special Shoutouts 
 
-_"P.S. Special shoutout to: Alex (Tay), Boss Val, Sowmya, Bhie, Rachel, Janina, Boss Karl, Valerie, HK, Charlalou, Faith, Trish, Azeem, CDH Team (Naveen, Nikhil, Vasantha, Yishen lol), CSI Shooting Stars (Dipin, Bob, Gio, Khai Ning, too many to mention guys, will miss u all), CCG Team (Nishadhi, WQ), CARE Team (Tine, Shruthi, Kelvin), CPI-GS Team (Boss Bry, Jeevitha), FCR/AppOps Team (Bru, Senthil, Sri, Mani and ppl I always bother for deployments XD), ISAP Bball Teams (idol Pancho, boss Jeff), Unicorn Team, APIM & TSDL Team (Kevin and Dilanka, you guys are the goats), IT-CPL Team (Joel, Benoit, Karim, Eric, Pierre), MU Team (Jospin, Toki etc), Thaen, Marion, Anyone I might have missed but are close to my heart... Until our paths cross again :)"_
+_"P.S. Special shoutout to: Alex (Tay), Boss Val, Sowmya, Bhie, Rachel, Janina, Boss Karl, Valerie, HK, Charlalou, Faith, Trish, Azeem, CDH Team (Naveen, Nikhil, Vasantha, Yishen lol), CSI Shooting Stars (Dipin, Bob, Gio, Khai Ning, too many to mention guys, will miss u all), CCG Team (Nishadhi, WQ), CARE Team (Tine, Shruthi, Kelvin), CPI-GS Team (Boss Bry, Jeevitha), FCR/AppOps Team (Bru, Senthil, Sri, Mani and ppl I always bother for deployments XD), ISAP Bball Teams (idol Pancho, boss Jeff), Unicorn Team, APIM & TSDL Team (Kevin and Dilanka, you guys are the goats), IT-CPL Team (Joel, Benoit, Karim, Eric, Pierre), MU Team (Jospin, Toki etc), Anyone I might have missed but are close to my heart... Until our paths cross again :)"_
 
 
 ## Deployment
