@@ -200,7 +200,7 @@ export default function FarewellLetter() {
       <div className="max-w-4xl mx-auto p-6 space-y-8">
         <div className="text-center">
           <a
-            href="https://linkedin.com/in/samanthasepeda"
+            href="https://www.linkedin.com/in/scsepeda/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-teal-600 hover:bg-teal-700 text-white rounded-full px-6 py-4 shadow-lg border border-teal-600 transition-colors duration-200"
@@ -278,7 +278,7 @@ export default function FarewellLetter() {
 
         <div className="text-center space-y-4 py-8">
           <div className="flex items-center justify-center gap-1">
-            <span className="text-base text-gray-600">Made with CARE for friends and colleagues around the world</span>
+            <span className="text-base text-gray-600">Made with care for friends and colleagues around the world</span>
           </div>
           <p className="text-sm text-pink-600">
             📖 Check the{" "}
@@ -290,7 +290,7 @@ export default function FarewellLetter() {
             >
               README file
             </a>{" "}
-            for special shoutouts to all my amazing colleagues!
+            for special shoutouts to some of my amazing colleagues!
           </p>
           <p className="text-xs text-gray-400">Built with Next.js, TailwindCSS, and CACIB design principles</p>
         </div>
