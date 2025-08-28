@@ -34,13 +34,13 @@ _"P.S. Special shoutout to: Alex (Tay), Boss Val, Sowmya, Bhie, Rachel, Janina, 
 
 ## Deployment
 
-Your project is live at:
+This project is live at:
 
 **[https://farewell-cacib.vercel.app/](https://farewell-cacib.vercel.app/)**
 
 ## Build your app
 
-Continue building your app on:
+Continue building this app on:
 
 **[https://v0.app/chat/projects/BFYiab4jJs4](https://v0.app/chat/projects/BFYiab4jJs4)**
 
